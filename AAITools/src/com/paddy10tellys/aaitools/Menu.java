@@ -11,7 +11,7 @@ import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
 public class Menu extends ListActivity {
-	String classes[] = {"AAITools", "example2", "example3", "example4", "example5", "example6"};
+	String classes[] = {"AAITools", "example2", "example3", "example4", "example5", "example6", "example7"};
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		// TODO Auto-generated method stub
